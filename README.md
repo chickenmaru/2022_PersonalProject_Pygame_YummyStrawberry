@@ -1,8 +1,12 @@
 # Video Demo
 
-# Core Game Mechanics
-This is a 2D vertical scrolling shooter game developed using Python and Pygame, themed "Strawberries are Delicious." Players control a cat (spaceship) moving across the screen, shooting falling strawberries while avoiding collisions to protect their health points.
+# Game Display
+
+
 # Overview
+This is a 2D vertical scrolling shooter game developed using Python and Pygame, themed "Strawberries are Delicious." Players control a cat (spaceship) moving across the screen, shooting falling strawberries while avoiding collisions to protect their health points.
+
+# Game Mechanics
 | Feature | Description |
 | :--- | :--- |
 | **Player Controls** | - Use WASD to move the cat<br>- Spacebar to shoot bullets |

@@ -4,6 +4,7 @@
 
 <img width="499" height="621" alt="image" src="https://github.com/user-attachments/assets/2e8369cb-eda3-440a-8026-18ef9af9d29f" />
 
+Strawberries will appear from all directions during gameplay.
 
 <img width="496" height="620" alt="image" src="https://github.com/user-attachments/assets/a5ae4d8d-bea1-46f7-9421-d4724e2d5843" />
 

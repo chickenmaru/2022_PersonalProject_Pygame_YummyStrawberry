@@ -6,10 +6,12 @@
 
 
 <img width="496" height="620" alt="image" src="https://github.com/user-attachments/assets/a5ae4d8d-bea1-46f7-9421-d4724e2d5843" />
+
 Items will drop during gameplay.
 
 
 <img width="497" height="619" alt="image" src="https://github.com/user-attachments/assets/7204a25b-d8da-4ac1-9cef-7d7119f8a903" />
+
 Collecting items triggers additional effects, such as changing the bullets to a double shot.
 
 

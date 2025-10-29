@@ -1,7 +1,11 @@
 # Video Demo
 
 # Game Display
+<img width="499" height="621" alt="image" src="https://github.com/user-attachments/assets/2e8369cb-eda3-440a-8026-18ef9af9d29f" />
 
+<img width="497" height="619" alt="image" src="https://github.com/user-attachments/assets/7204a25b-d8da-4ac1-9cef-7d7119f8a903" />
+
+<img width="496" height="620" alt="image" src="https://github.com/user-attachments/assets/a5ae4d8d-bea1-46f7-9421-d4724e2d5843" />
 
 # Overview
 This is a 2D vertical scrolling shooter game developed using Python and Pygame, themed "Strawberries are Delicious." Players control a cat (spaceship) moving across the screen, shooting falling strawberries while avoiding collisions to protect their health points.
@@ -17,3 +21,5 @@ This is a 2D vertical scrolling shooter game developed using Python and Pygame, 
 | **Power-up System** | Chance to drop when shooting down strawberries:<br>• **Meat**: Activates double-shot firing<br>• **Save**: Restores 15 health points |
 | **Scoring System** | - Score points for shooting down strawberries (calculated based on strawberry size) |
 | **Increasing Difficulty** | - Current code has logic to increase strawberry count and speed when score >= 500 / 2000<br>- Not working due to variable scope issues |
+
+
